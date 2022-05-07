@@ -4,7 +4,7 @@ _Pequeño ejercicio realizado con Spring Boot donde se disponibiliza una api res
 
 ## Comenzando 🚀
 
-_La forma más simple es utilizar algún framework que tenga Spring Boot o algún plugin instalado. De cualquier manera la instrucción básica es importar el proyecto como uno existente y utilizar el botón de ejecución por defecto que se asocia al proyecto._
+_La forma más simple es utilizar algún framework que tenga Spring Boot o algún plugin instalado. De cualquier manera la instrucción básica es importar el proyecto como uno existente y utilizar el botón de ejecución por defecto que se asocia al proyecto. Además para un entendimiento más simple, se adjunta un diagrama en resources._
 
 
 ### Herramientas 📋
